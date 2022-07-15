@@ -1,9 +1,8 @@
 # CryptoRelevanceScore
 
-Repository of the supervised Relevance Score development for the GDELT CRYPTOCURRENCY CURATED EVENT DATABASE framework application in July/2022.
+Repository of the supervised Relevance Score development for the GDELT CRYPTOCURRENCY CURATED EVENT DATABASE project, dataset acquired between late June/2022 and and early July/2022.
 
-
-Data for the development of the supervised relevance score was web scrapped from Yahoo! Finance containing 1733 labeled news;  
+Data for the development of the supervised relevance score was web scrapped from Yahoo! Finance containing 1733 labeled news during 27th of Jun2 2022 and the 8th of July 2022;  
 * 546 crypto related news extracted from Yahoo Crypto (https://finance.yahoo.com/topic/crypto) were labeled as 1 and 
 * 1187 non-crypto related news extracted from Finance (https://finance.yahoo.com/) and General (https://news.yahoo.com/) were labeled as 0. 
 
