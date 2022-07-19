@@ -11,7 +11,7 @@ Data was split into 1299 news for training and 434 news for test data. Although 
 Finally, a Naive Bayes approach was the chosen option achieving the following accuracy, precision, recall, f1-score and AUC: 
 97.84 \%, 98.47\%, 94.62\%, 96.50\% and 96.97\% in the train set and 91.70\%, 98.09\%, 75.18\%, 85.12\% and 87.25\% in the test set.
 
-* Dataset name: crypto_and_no_news_for_relevancescore_from_yahoo.csv
+* Dataset name: crypto_relevancescore_from_yahoofinance.csv
 * Code for web scrapping Yahoo: 1.1.crypto_and_no_news_for_relevancescore_webscrapping_and_modeldevelopment.ipynb
 * Simple EDA of the dataset: 1.2.crypto_and_no_news_for_relevancescore_from_yahoo_EDA.ipynb
 
